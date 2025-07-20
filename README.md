@@ -39,7 +39,7 @@ Cross-Sell Opportunities Identification
 
 * End-to-End Workflow: From raw transactions → Association Rules → Dashboard.
 * Python + Power BI Integration: Combines the best of both worlds.
-* One-Page Clean Layout: KPI Cards, Treemap, Rules Table, all on a single page.
+* Two-Pages Clean Layout: Frequent Itemset Combination and Association Rules.
 
 
 
